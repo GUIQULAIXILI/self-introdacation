@@ -1,0 +1,17 @@
+html语法
+    div*2=<div><div>
+                 <div><div> 
+        ul>li=<ul><li><li><ul>
+        div+p=<div><div>
+              <p><p>
+        .hop=<div class="hop"><div>
+        .hop$*2=<div class="hop1"><div>
+        <div class="hop2"><div>
+        #hop=<div id="hop"><div>
+        div{hop}=<div>hop<div>
+css语法
+        div p 后代选择器
+        div>p 亲儿子选择器
+        div,p 并集选择器
+        ：div 伪类选择器
+        
