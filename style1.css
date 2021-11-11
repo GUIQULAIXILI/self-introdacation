@@ -1,0 +1,96 @@
+
+body{
+    /* background-image: url("wallhaven-x8z9yo_2560x1080.png");
+    background-repeat: repeat;
+    background-position:  center top;
+    background-attachment: fixed;可简写 */
+    background: #333  url("img/wallhaven-x8z9yo_2560x1080.png") repeat center top fixed;
+    color: #fff;
+    background-attachment: fixed;
+
+    /* background: rgb(0,0,0,0.3) 背景色半透明*/
+}
+.nav1{
+    width: 100px;
+    height: 50px;
+    display: inline-block;
+    text-decoration: none;
+    line-height: 50px;
+    
+    text-align: center;
+    color:red(53, 20, 151);
+    background-color: skyblue;
+}
+.nav2{
+    width: 100px;
+    height: 50px;
+    display: inline-block;
+    text-decoration: none;
+    line-height: 50px;
+    
+    text-align: center;
+    color:red(53, 20, 151);
+    background-color: skyblue;
+}
+.nav3{
+    width: 100px;
+    height: 50px;
+    display: inline-block;
+    text-decoration: none;
+    line-height: 50px;
+    
+    text-align: center;
+    color:red(53, 20, 151);
+    background-color: skyblue;
+}
+.nav4{
+    width: 100px;
+    height: 50px;
+    display: inline-block;
+    text-decoration: none;
+    line-height: 50px;
+    
+    text-align: center;
+    color:red(53, 20, 151);
+    background-color: skyblue;
+}
+ 
+
+.div1{
+    height: 100px;
+    font-size: 20px;
+    color: rgb(138, 23, 23);
+    background-color: #000;
+    background: rgba(0,0,0,0.5);
+}
+.div2{
+    height: 600px;
+    text-align: center;
+    font-size: 50px;
+    font-weight: lighter;
+    color: rgb(23, 36, 226);
+}
+
+.div3{
+    margin-top: 60px;
+    height: 150px;
+    color: rgb(21, 198, 211);
+    font-size: 100px;
+    text-align: center;
+    font-weight: lighter;
+}
+.div4{
+    text-align: center;
+    font-size: 30px;
+}
+.kongge{
+    height: 100px;
+}
+.kongge2{
+    height: 150px;
+    text-align: center;
+    font-size: 50px;
+}
+.kongge3{
+    height: 150px;
+}

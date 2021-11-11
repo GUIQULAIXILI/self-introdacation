@@ -1,0 +1,126 @@
+body{
+    /* background-image: url("wallhaven-x8z9yo_2560x1080.png");
+    background-repeat: repeat;
+    background-position:  center top;
+    background-attachment: fixed;可简写 */
+    background: #333  url("img/wallhaven-kwq8x7_2560x1080.png") repeat center top fixed;
+    color: #fff;
+    /* background: rgb(0,0,0,0.3) 背景色半透明*/
+}
+ul {
+list-style: none;
+position:relative;
+font-family:Tahoma;
+font-size: 150%;		
+padding: 0;
+margin: 0;
+top:5%;
+left:2%;
+width: 300px;
+padding-left: 10px;
+margin-left: -15px;
+}
+
+
+li div:first-child {
+    padding: .5em 0 0 1em;
+    width: 1.5em;
+    height: 2em;
+    border: solid 3px #248067;
+    border-radius: 2em;
+    color: #248067;
+    transition: all 0.5s ease-in-out;
+}
+
+li div:last-child {
+    position: relative;
+    top: -2em;
+    left: 3em;
+    width: 6.5em;
+}
+
+li:hover div:first-child {
+    width: 10em;
+    text-align: left;
+    color: #248067;
+    background: #248067;
+}
+
+li:hover div:last-child {
+    color:honeydew;
+}
+li{
+    margin-top: 50px;
+}
+ul{
+    margin-top: 50px;
+}
+.nav1{
+    width: 100px;
+    height: 50px;
+    display: inline-block;
+    text-decoration: none;
+    line-height: 50px;
+    
+    text-align: center;
+    color:red(53, 20, 151);
+    background-color: skyblue;
+}
+.nav2{
+    width: 100px;
+    height: 50px;
+    display: inline-block;
+    text-decoration: none;
+    line-height: 50px;
+    
+    text-align: center;
+    color:red(53, 20, 151);
+    background-color: skyblue;
+}
+.nav3{
+    width: 100px;
+    height: 50px;
+    display: inline-block;
+    text-decoration: none;
+    line-height: 50px;
+    
+    text-align: center;
+    color:red(53, 20, 151);
+    background-color: skyblue;
+}
+.nav4{
+    width: 100px;
+    height: 50px;
+    display: inline-block;
+    text-decoration: none;
+    line-height: 50px;
+    
+    text-align: center;
+    color:red(53, 20, 151);
+    background-color: skyblue;
+}
+.kongge{
+    height: 56px;
+}
+.div2{
+   display: inline-block;
+   width: 540px;
+}
+.div3{margin-top: -100px;
+    text-align: top center;
+    display: inline-block;
+    width: 800px;
+    border-style: solid;
+    font-size: 2.5vw;
+    padding: 2.5vw;
+    line-height: 5vw;
+    color:rgb(218, 157, 226);
+    border-color: #fff;
+}
+
+
+a{
+text-decoration: none;   
+display: block;
+color: #248067;
+}
